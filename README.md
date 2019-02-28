@@ -62,7 +62,10 @@ sudo python3 create_wordcloud.py [Query]
 ```
 
  ## Description
-Word Cloud
+ A word cloud is an image made of words that together resemble a cloudy shape.
+ The size of a word shows how important it is e.g. how often it appears in a text — its frequency.
+
+ People typically use word clouds to easily produce a summary of large documents (reports, speeches), to create art on a topic (gifts, displays) or to visualise data (tables, surveys).
 
  ## Convenient screenshot
 
