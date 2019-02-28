@@ -13,6 +13,7 @@ It creates a WordCloud image of given query.
  How to use?
 -----------
 If you wish to install manually, follow this process.
+
 To use, it is recommended to make `virtualenv` and then install all required packages:
 
 * Installing virtualenv:
