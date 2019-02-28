@@ -1,5 +1,6 @@
 # WorldCloud
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 It creates a WordCloud image of given query.
